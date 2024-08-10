@@ -2,7 +2,7 @@
 
 <h2 align="left">Thanks for stopping by. Here's a little bit about myself...</h2>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/NikhilYJadhav/NikhilYJadhav/assets/112622476/5577c309-6137-4468-8a14-e39e375fb92c">
+
 
 
 <h3 align="left">Proficient Data Analyst in developing data processes and strategies that maximize efficiency.</h3>
